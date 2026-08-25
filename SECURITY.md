@@ -20,11 +20,8 @@ If you discover a security vulnerability, please report it responsibly.
 ### How to Report
 Send a detailed report through one of the following methods:
 
-- Discord Support Server:
-  https://discord.gg/BZxkeXFfvf
-
-- Direct Contact:
-  Message the project owner or staff team through the Discord server.
+- Direct Report:
+Send a post in reports. 
 
 ---
 
