@@ -28,143 +28,130 @@ Additionally, it performs the normalization of the text in order to identify sim
 
 ### ⚠️ Malware & Unsafe Link Detection
 
-Potentially dangerous links can be flagged with a warning.
+Warning signs may be put on potentially harmful links.
 
-The extension can identify links associated with things such as:
+Among the elements which the extension can detect are:
 
 * Malware
-* Trojans
+* Trojan horses
 * Token stealers
 * Loggers and other stealers
-* Known unsafe domains
+* Unsafe domains
 
-> **Note:** No browser extension can guarantee that every malicious file or website will be detected.
+> **Note:** There is no way any browser extension can detect all malicious files and websites.
 
 ### 🔗 Suspicious Link Detection
 
-The extension checks for several types of suspicious URLs, including:
+The add-on detects a number of categories of malicious links, among them:
 
-* URL shorteners such as `bit.ly`
-* IP grabbers and logging services
-* Known scam domains
-* Suspicious crypto and gambling sites
-* Unknown links that match suspicious patterns
+* Shortened links like `bit.ly`
+* IP grabbers and logging systems
+* Scam domains
+* Crypto and betting websites with suspicious activity
+* Unrecognized links with malicious characteristics
 
 ### 🧩 Server Protection
 
-The Discover page is also checked for potentially suspicious server names and content.
+Suspicious server names and content may be found from the Discover page too.
 
 ### 🚫 Block & Unblock
 
-Found a link you don't want to open?
+Come across a link that you don’t want to click?
 
-Use the built-in **Block** button.
+You can use the Block feature.
 
-Blocked links:
+Blocked links are:
 
-* Turn gray
-* Can't be clicked normally
-* Can be unblocked later if you change your mind
+* Grayed out
+* Not clickable
+* Easily unblocked if your opinion changes
 
 ### ⚡ Automatic Monitoring
 
-You don't need to manually refresh the extension every time something changes.
+You don't have to refresh the extension yourself each time there is an update.
 
-It watches for:
+It monitors:
 
-* New messages
-* Edited messages
-* Newly loaded Discord content
+* Incoming messages
+* Updated messages
+* Discord data that just loaded
 
 ### 🎨 Simple Interface
 
-The goal is to keep the protection out of your way.
+The objective is for you not to get in the way of the protection.
 
-There are:
+This means that there are:
 
-* No large popups
-* No annoying screen overlays
+* No big pop-ups
+* No screen overlays
 * No unnecessary borders
-* Simple warnings directly where they're needed
-
----
+* Warnings right where they belong
 
 ## 🛠️ Installation
 
-Since this is a Chrome extension, you can install it manually using Chrome's developer tools.
+This being a Chrome extension, you can install it manually through the developer tools of Chrome.
 
-1. Download or clone this repository.
-2. Open `chrome://extensions/` in Chrome.
-3. Turn on **Developer mode**.
-4. Click **Load unpacked**.
-5. Select the extension folder.
-6. Make sure the extension is enabled.
-
----
+1. Download or clone this project.
+2. Go to `chrome://extensions/` in Chrome.
+3. Enable **Developer mode**.
+4. Press the button **Load unpacked**.
+5. Choose the folder of the extension.
 
 ## 🔒 Permissions
 
-The extension uses a small number of Chrome permissions:
+The following Chrome permissions are employed in the extension:
 
-* `storage` — Saves information such as blocked links.
-* `scripting` — Allows the protection scripts to run.
-* `tabs` — Used for features that need information about the current tab.
+* `storage` – Stores data such as blocked links.
+* `scripting` – Enables protection scripts to be executed.
+* `tabs` – Needed by functionalities that require tab info.
 
-These permissions are used for the extension's protection features.
-
----
+The following permissions are used for protection purposes.
 
 ## ⚠️ Disclaimer
 
-Discord Link Protector is designed to add another layer of protection while using Discord, but it isn't a replacement for being careful online.
+The Discord Link Protector provides an extra security feature while on the application, but this does not mean that one can be carefree while on the app.
 
-No detection system is perfect. A new scam, domain, or malicious website may not be recognized immediately.
+It should be noted that no detection mechanism works perfectly, and there may be a case where a new scam, website, or domain will not be detected at once.
 
-Always think twice before opening an unfamiliar link or downloading a file from someone you don't know.
-
----
+One must always be wary when receiving any links or files from unknown persons.
 
 ## 💡 Why Use It?
 
-Scam links are easy to run into on Discord.
+Scam links are quite common in Discord.
 
-You might see:
+You could get:
 
-* Fake Nitro offers
-* Fake giveaways
-* Crypto scams
-* Phishing pages
-* Malware downloads
-* Suspicious server invites
+* Scamming Nitro deals
+* Scamming giveaway links
+* Cryptocurrency scams
+* Scam phishing sites
+* Malware downloading links
+* Scam server invites
 
-Discord Link Protector is designed to give you an extra warning before you accidentally click something dangerous.
-
----
+The Discord Link Protector is created to warn you about that.
 
 ## 📌 Version
 
-**v1.1 — Max Lockdown**
+**Version 1.1 – Max Lockdown**
 
-Current improvements include:
+Latest improvements include:
 
-* Improved scam detection
-* Malware and unsafe-link detection
-* Expanded scam and domain lists
-* Better real-time scanning
-* Improved handling of newly loaded Discord content
+* Better scam protection
+* Detection of malware and unsafe links
+* More scam and domain lists
+* Real-time scanning improvements
+* Newly loaded Discord content protection
 
----
 
 ## ❤️ Support the Project
 
-If you find the project useful and want to support its development, you can do so through Cash App:
+However, if you think that the project is worth supporting in any way, you could use Cash App for that purpose:
 
 **Cash App:** `$RealGadlyYT`
 
-You can also support the project by sharing it with other people who might find it useful.
+Moreover, you can contribute to the project by spreading it to people who might need it as well.
 
----
 
 ## 🛡️ Stay Safe. Stay Protected.
 
-Thanks for checking out Discord Link Protector.
+Thank you for looking into Discord Link Protector.
