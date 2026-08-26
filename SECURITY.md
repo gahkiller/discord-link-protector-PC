@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-The following versions of Discord Link Protector are currently supported with security updates and patches.
+Discord Link Protector stays updated on our end with security updates and patches for its most recent versions.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -11,55 +11,80 @@ The following versions of Discord Link Protector are currently supported with se
 | 1.3.x   | :x:                |
 | < 1.3   | :x:                |
 
----
+If your current version is old, it is advisable to upgrade to a newer version when possible.
+
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please report it responsibly.
+If you encounter any security issues with Discord Link Protector, kindly inform us immediately. We would prefer if any security issues could be informed to us privately so that it can be sorted out.
 
 ### How to Report
-Send a detailed report through one of the following methods:
 
-- Direct Report:
-Send a post in reports. 
+Send a report using the project’s **Reports** channel.
 
----
+It is highly discouraged to disclose an unpatched vulnerability.
+
 
 ## What to Include
-Please include:
 
-- Description of the vulnerability
-- Steps to reproduce the issue
-- Screenshots or proof-of-concept (if available)
-- Possible impact of the vulnerability
-- Browser/version information
+If you wish to report a problem, please consider including:
 
----
+* Description of what the problem is.
+* Version that you are using.
+* Method for reproducing the problem.
+* Expected result.
+* Result of what actually happened.
+* Possible consequences of the problem.
+* Screenshot, log, or Proof of Concept if it helps.
+* Browser/Operating System/Discord version if applicable.
 
-## Response Time
+Do not include passwords or any private information in your report.
 
-We aim to:
 
-- Respond within 24–72 hours
-- Investigate and verify the issue quickly
-- Release fixes as soon as possible if confirmed
 
----
+## What Happens After a Report
+
+We shall endeavor to respond to any report within **24 to 72 hours**.
+
+This will be followed by the investigation of the matter, determining its level of severity and coming up with solutions to the problem should it be confirmed.
+
+Other issues might take longer to solve depending on their level of complexity.
+
+
 
 ## Responsible Disclosure
 
-Please do NOT:
+Should you discover any vulnerability, we would kindly request that you allow us some time to look into and address it before making any public announcement of the matter.
 
-- Publicly disclose vulnerabilities before they are fixed
-- Abuse or exploit discovered vulnerabilities
-- Use vulnerabilities to harm users, systems, or services
+Please do not:
 
-Responsible reports help keep the community safe and secure.
+* Make a public disclosure of any unpatched vulnerabilities
+* Abuse any vulnerability for personal gain
+* Obtain unauthorized access to someone else’s private information
+* Manipulate or delete data that doesn’t belong to you
+* Interrupt the service intentionally
+* Perform further testing once sufficient information to prove the existence of the problem has been collected.
 
----
+Security testing should be conducted responsibly.
+
 
 ## Security Updates
 
-Security fixes and important patches will be released in future updates and listed in the project changelogs.
+Updates could either contain security patches or could be provided independently to deal with problems as soon as possible.
 
-Thank you for helping improve the security of Discord Link Protector.
+Any important security updates will be provided in the changelogs of the project if needed.
+
+It is highly recommended to update Discord Link Protector to the latest version.
+
+
+
+## Scope
+
+This policy pertains to security vulnerabilities existing in the Discord Link Protector and its related elements which are supported officially in the project.
+
+The security vulnerabilities resulting only from an unofficial fork, modification, unsupported software, or any other third-party application may not be covered under this policy.
+
+
+## Thanks
+
+If you choose to report a security threat, we would like to say thank you. The reports that you provide will make it much easier for us to resolve these issues.
