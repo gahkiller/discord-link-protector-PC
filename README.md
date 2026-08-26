@@ -132,7 +132,7 @@ The Discord Link Protector is created to warn you about that.
 
 ## 📌 Version
 
-**Version 1.1 – Max Lockdown**
+**Discord Link Protector — v1.5**
 
 Latest improvements include:
 
